@@ -1,4 +1,4 @@
-# IRIS (Course Registration) Task-02
+# IRIS (Course Registration)
 
 This task is designed to empower users with the ability to select, enroll, and manage their course schedules seamlessly.
 
